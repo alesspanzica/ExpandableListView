@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="List_parent" type="id" />
+    <item name="List_parent" type="id" />
+    <item name="List_parent" type="id" />
+    <item name="List_child" type="id" />
+</resources>

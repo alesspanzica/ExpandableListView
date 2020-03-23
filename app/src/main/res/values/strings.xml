@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+    <string name="RaceData">RaceData</string>
+
+    <string-array name="RaceData">
+        <item>item1</item>
+    </string-array>
+</resources>
